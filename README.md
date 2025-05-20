@@ -30,6 +30,10 @@ Instala los requerimientos necesarios ejecutando:
 pip install -r requirements.txt
 ```
 
+Link de descarga del dataset para el entrenamiento y test:
+https://www.kaggle.com/datasets/hasnainjaved/melanoma-skin-cancer-dataset-of-10000-images
+
+
 ## 🧠 Entrenamiento
 Para entrenar el modelo desde cero, ejecuta:
 ```bash
